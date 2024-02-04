@@ -1,1 +1,1 @@
-# OpenAI-ChatGPT-Actions
+# Chat GPT
